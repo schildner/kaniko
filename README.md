@@ -1,5 +1,5 @@
 # kaniko - Build Images In Kubernetes
-
+forcing release build
 `NOTE: kaniko is not an officially supported Google product`
 
 [![Build Status](https://travis-ci.com/GoogleContainerTools/kaniko.svg?branch=master)](https://travis-ci.com/GoogleContainerTools/kaniko) [![Go Report Card](https://goreportcard.com/badge/github.com/GoogleContainerTools/kaniko)](https://goreportcard.com/report/github.com/GoogleContainerTools/kaniko)
